@@ -2,7 +2,7 @@ asn1crypto==1.2.0
 certifi==2019.9.11
 cffi==1.13.0
 clickhouse-driver==0.1.1
-cryptography==2.7
+cryptography==3.2
 future==0.18.0
 kazoo==2.6.1
 pycparser==2.19
